@@ -1,0 +1,27 @@
+[2024-01-22 06:01:58.976385] INFO: hello world专用: 有人访问你的网站啦
+[2024-01-22 06:06:28.640226] INFO: hello world专用: 有人访问你的网站啦
+[2024-01-22 06:15:45.440762] INFO: hello world专用: 有人访问你的网站啦
+[2024-01-22 14:16:09.391994] INFO: hello world专用: 有人访问你的网站啦
+[2024-01-22 14:19:21.308135] INFO: hello world专用: 有人访问你的网站啦
+[2024-01-22 14:24:39.990570] INFO: hello world专用: 有人访问你的网站啦
+[2024-01-22 14:37:48.008667] INFO: hello world专用: 有人访问你的网站啦
+[2024-02-22 15:26:43.361320] INFO: hello world专用: 有人访问你的网站啦
+[2024-03-05 11:19:31.562442] INFO: UserDao: 有人访问你的网站啦
+[2024-03-05 11:20:36.594977] INFO: UserDao: 有人访问你的网站啦
+[2024-03-05 11:20:55.355264] ERROR: UserDao: 用户注册失败: 用户名或邮箱已存在
+[2024-03-05 11:22:54.345963] ERROR: UserDao: 用户注册失败: 用户名或邮箱已存在
+[2024-03-05 11:23:06.530066] ERROR: UserDao: 用户注册失败: Strings must be encoded before hashing
+[2024-03-05 11:25:08.063899] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
+[2024-03-05 11:28:04.594731] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
+[2024-03-07 16:43:56.900023] INFO: UserDao: 有人访问你的网站啦
+[2024-03-07 16:55:32.046529] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
+[2024-03-07 16:57:16.136861] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
+[2024-03-07 16:57:58.763450] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
+[2024-03-11 11:19:35.771987] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
+[2024-03-11 11:19:51.882958] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
+[2024-03-11 11:20:48.022622] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
+[2024-03-11 11:21:03.636540] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
+[2024-03-11 11:36:25.035183] INFO: UserDao: 有人访问你的网站啦
+[2024-03-11 11:45:35.333264] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
+[2024-03-11 11:47:47.903820] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
+[2024-03-11 11:55:51.724728] ERROR: UserDao: 用户注册失败: 用户名或邮箱已存在
