@@ -25,3 +25,10 @@
 [2024-03-11 11:45:35.333264] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
 [2024-03-11 11:47:47.903820] ERROR: UserDao: 用户注册失败: __init__() takes 1 positional argument but 5 were given
 [2024-03-11 11:55:51.724728] ERROR: UserDao: 用户注册失败: 用户名或邮箱已存在
+[2024-03-11 14:22:21.683016] ERROR: UserDao: 用户注册失败: 用户名或邮箱已存在
+[2024-03-11 15:13:34.152274] ERROR: UserDao: 用户注册失败: 用户名或邮箱已存在
+[2024-03-13 15:47:06.352009] INFO: UserDao: 有人访问你的网站啦
+[2024-03-18 11:49:41.064841] INFO: UserDao: 有人访问你的网站啦
+[2024-03-18 11:52:59.519756] INFO: UserDao: 有人访问你的网站啦
+[2024-03-18 14:03:59.247318] INFO: UserDao: 有人访问你的网站啦
+[2024-03-18 17:47:15.522099] ERROR: UserDao: 用户注册失败: 用户名或邮箱已存在

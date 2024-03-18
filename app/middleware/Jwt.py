@@ -13,8 +13,10 @@ class UserToken(object):
 
     @staticmethod
     def get_token(data):
+        expire = datetime.now() + timedelta(hours=EXPIRED_HOUR)
         new_data = dict({"exp": datetime.utcnow() + timedelta(hours=EXPIRED_HOUR)}, **data)
-        return jwt.encode(new_data, key=UserToken.key).decode()
+        # return expire.timestamp(), jwt.encode(new_data, key=UserToken.key)
+        return jwt.encode(new_data, key=UserToken.key)
 
     @staticmethod
     def parse_token(token):
